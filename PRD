@@ -1,0 +1,22 @@
+PRD Section
+Guiding Questions
+1. Product name / tagline
+What do you want to call this mini-app? Any catchy one-liner?
+2. Problem statement
+Why does a “Flight + Weather Finder” matter to users? (e.g., avoid bad-weather layovers, compare cheapest vs fastest flights, etc.)
+3. Primary users & context
+Who will use it first—travelers, friends & family, recruiters seeing your portfolio? Any accessibility needs?
+4. Key use cases / user stories
+Ex: “As a traveler, I enter AUS → SFO 7 Jul and instantly see top three flights + weather.” List 3–5 short stories.
+5. Core features (v1)
+Must-haves only: flight search, 7-day forecast, cost/duration/layovers, Gen-AI summary?
+6. Nice-to-haves / v1.1 ideas
+Maybe seat-map links, hotel search, calendar export, SMS alerts…?
+7. Non-functional requirements
+Response time target? Cost ceiling? GitHub CI badge must stay green?
+8. Success metrics
+What proves the demo “works”? (100% tests passing, generates itinerary under 5 s, etc.)
+9. Technical constraints
+Only public MCP servers, Python 3.12, fastmcp, no paid APIs, deployable on Fly.io?
+10. Timeline / milestones
+Two-week sprint? Deadline before you share on LinkedIn?
